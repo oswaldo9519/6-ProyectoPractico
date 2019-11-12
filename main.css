@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+.h1{
+    margin-left: 10vw;
+}
+
+.p{
+    margin-top: 0.8vw;
+}
+
+body{
+    font-size: 1em;
+    background-color: #F6D8E4;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.contenedor{
+    color: palevioletred;
+    background-color: pink;
+    margin-bottom: 1vw;
+}
+
+.btn {
+    margin-top: 1.5vw;
+}
+
+.encabezado {
+    font-size:2em;
+    text-align: right;
+}
+
+.contenido1 {
+    margin-top: 12vw;
+    margin-left: 1vw;
+
+}
+
+.h2 {
+    text-align: center;
+}
+
+.h5{
+    text-align: center;
+}
+
+
+.contenido2     {
+ 
+   margin-left: 5vw;
+}
+
+.contenido3{
+    margin-top: 15vw;
+    
+}
+
+#img{
+    margin-top: 3vw;
+}
+ 
+#img2{
+    margin-top: 3vw;
+    margin-bottom: 5vw;
+    margin-left: 0.5vw;
+}
+
+#img:hover{
+    transition: 3s;
+    border-radius:15%;
+    -webkit-border-radius:15%;
+    box-shadow: 0px 0px 5px 5px #F989B5;
+    -webkit-box-shadow: 0px 0px 5px 5px #F989B5;
+}
+
+#img2:hover{
+    transition: 3s;
+    border-radius:15%;
+    -webkit-border-radius:15%;
+    box-shadow: 0px 0px 5px 5px #F989B5;
+    -webkit-box-shadow: 0px 0px 5px 5px #F989B5;
+}
+
+.car{
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-bottom: 10vw;
+}
+
+
+
+
+@media (min-width: 576px) { ... }
+
+@media (min-width: 768px) { ... }
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
